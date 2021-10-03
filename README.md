@@ -1,0 +1,2 @@
+In order to Run this Project Code. First Step to Clone this Github source code by using the Git link
+and  Secondly install all the dependencies by using "npm install" in the terminal and then run the project by using "npm test". I made this code in  Node Version v14.18.0.
