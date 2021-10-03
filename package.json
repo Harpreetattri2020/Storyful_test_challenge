@@ -1,0 +1,14 @@
+{
+  "name": "storyful_test_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harpreet Attri",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
